@@ -20,4 +20,5 @@
 |     4| Swift     |
 |     3| MySQL       |
 |     4| PostgreSQL  |
+|     1| C / C++  |
 
