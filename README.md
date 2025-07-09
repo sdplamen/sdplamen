@@ -14,11 +14,11 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| JavaScript|
-|     3| HTML5,CSS3|
+|    10| Python    |
+|     5| JavaScript|
+|     8| HTML5,CSS3|
 |     4| Swift     |
-|     3| MySQL       |
-|     4| PostgreSQL  |
-|     1| C / C++  |
+|     9| MySQL     |
+|     9| PostgreSQL|
+|     1| C / C++   |
 
